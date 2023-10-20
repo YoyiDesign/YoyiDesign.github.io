@@ -7,3 +7,22 @@
 .resumen {
     text-align: justify;
 }
+
+.img-port img {
+    width: 40%;
+}
+
+footer p {
+    color:rgb(101, 100, 100);
+    text-align: center;
+}
+
+.container h3 {
+    font-size: 20px;
+    color:rgb(107, 106, 106)
+}
+
+.container h2 {
+    font-size: 26px;
+    color:rgb(158, 158, 158)
+}
