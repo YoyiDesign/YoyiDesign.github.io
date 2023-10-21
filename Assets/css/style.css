@@ -11,6 +11,7 @@
 }
 
 .card {
+    margin-left:20px;
     border-radius: 100px;
     font-size: 50px;
 }
